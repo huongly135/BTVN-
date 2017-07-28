@@ -27,7 +27,7 @@ function clickMeEvent(obj) {
 <br><h3>TEST 1</h3>
 <h2 onclick="this.innerHTML='Hello my friend'">Please click here</h2>
 <p id="demo"></p> 
-<div onmousedown="mDown(this)" onmouseup="mUp(this)" style="background-color:#E51DD4;width:90px;height:20px;padding:40px;">
+<div onmousedown="mDown(this)" onmouseup="mUp(this)" style="background-color:#E51DD4;width:90px;height:50px;padding:40px;">
 Bạn có thể ấn thử</div>
 <script>
 function mDown(obj) {
