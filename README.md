@@ -1,4 +1,5 @@
-<html data-sbro-popup-lock="true" data-sbro-ads-lock="true" data-sbro-deals-lock="true" data-sbro-extensions-lock="true"><head><style></style></head><body>
+<html
+data-sbro-popup-lock="true" data-sbro-ads-lock="true" data-sbro-deals-lock="true" data-sbro-extensions-lock="true"><head><style></style></head><body>
 <div style="width:100%;height:120px;">
 <div style="background-color:#06FA2E;width:170px;height:80px;margin:20px;padding-top:20px;color:#ffffff;font-weight:bold;font-size:18px;float:left;text-align:center;" onmouseover="this.innerHTML='Tôi Là Nguyễn Quang Anh'" onmouseout="this.innerHTML='HELLO'">Subscribe for</div>
 <div style="background-color:#7F8AF4;width:170px;height:80px;margin:20px;padding-top:20px;color:#ffffff;font-weight:bold;font-size:18px;float:left;text-align:center;" onclick="clickMeEvent(this)">Please click me</div>
